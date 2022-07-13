@@ -5,4 +5,4 @@ The data here is from the <a href="https://archive-beta.ics.uci.edu/ml/datasets/
 
 cleve-hung-fixed is the combination of the Cleveland Clinic and Hungarian Institute data sets. 
 
-Python code and much weeping will follow.
+A data analysis Jupyter notebook is included.
